@@ -5,12 +5,12 @@ muesli's life
 - ~1986 A young kid stares at the fascinating green screen of his dad's computer for the first time
 - ~1989 Started learning BASIC on an ITT-3030
 - 07/1990 My first own computer
-- ~1991 My Pascal phase of life
+- ~1991 My Turbo Pascal phase of life
 - 1992-1997 Sysop of my own little BBS (Wonder Box)
 - ~1992 Node on the FidoNet
 - 1993-~ C and C++ development
 - ~1994 Running Linux for the first time
-- ~1995 Windows app development with Delphi
+- ~1995 Windows app development with Delphi (Object Pascal)
 - ~1995 Learning Java
 - ~1995 My first own homepage goes online at http://chris.de
 - ~1998 Started hacking in and on PHP
