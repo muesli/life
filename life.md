@@ -1,9 +1,9 @@
 muesli's life
-===============
+=============
 
 - 27/07/1980 Born
 - ~1986 A young kid stares at the fascinating green screen of his dad's computer for the first time
-- ~1989 Started learning BASIC on an ITT-3030
+- ~1988 Started learning BASIC on an ITT-3030
 - 07/1990 My first own computer
 - ~1991 My Turbo Pascal phase of life
 - 1992-1997 Sysop of my own little BBS (Wonder Box)
@@ -25,3 +25,4 @@ muesli's life
 - 10/2010 Released Tomahawk Player to the public
 - 2010-~ Maintainer and lead developer of Tomahawk
 - 04/2013-~ Go slowly becomes my new favorite toy
+- 2014-~ Maintainer and lead developer of Beehive
